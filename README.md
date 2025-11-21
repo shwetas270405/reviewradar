@@ -1,1 +1,1 @@
-updating readme for proper server testing
+ima cri this time fr
