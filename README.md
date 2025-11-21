@@ -1,1 +1,1 @@
-#editing reviewradar for 2nd pull
+updating readme for proper server testing
