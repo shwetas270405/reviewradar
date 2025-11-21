@@ -1,1 +1,1 @@
-updating readme for proper server testing
+one last or i cri
