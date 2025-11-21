@@ -1,1 +1,1 @@
-updating readme for proper server testing
+updating readme again for proper server testing
